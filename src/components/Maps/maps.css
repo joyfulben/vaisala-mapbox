@@ -1,0 +1,7 @@
+.maps-btn-container {
+    display: flex;
+}
+.temp-switch {
+    display: flex;
+    align-items: center;
+}
